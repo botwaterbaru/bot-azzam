@@ -1,14 +1,13 @@
-# RIDHO-BOT
-
+# bot-azzam
 # Cara install bot:
 #
 #>pkg update && pkg upgrade
 
 #>pkg install git
 
-#>git clone https://github.com/ridhoma08/ridho-bot
+#>git clone https://github.com/botwaterbaru/bot-azzam
 
-#>cd ridho-bot
+#>cd bot-azzam
 
 #>pkg install wget
 
